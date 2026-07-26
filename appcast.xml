@@ -3,12 +3,12 @@
     <channel>
         <title>Gainz</title>
         <item>
-            <title>1.3</title>
-            <pubDate>Sat, 25 Jul 2026 22:05:18 +0100</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+            <title>1.4</title>
+            <pubDate>Sun, 26 Jul 2026 13:02:56 +0100</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/scr5/gainz-macos/releases/download/v1.3/Gainz-1.3.dmg" length="16990615" type="application/octet-stream" sparkle:edSignature="U3fH2IDTCn6FfbpXec44BxK8v+c/axhQvWuWY0QONzyf8E3an4wAIoXvlZ4ffvujVtApURxmgoyzeXW9Cm7bCQ=="/>
+            <enclosure url="https://github.com/scr5/gainz-macos/releases/download/v1.4/Gainz-1.4-build-4.dmg" length="17242996" type="application/octet-stream" sparkle:edSignature="UWqGPMmwNcHmuDyde95nMCU9rMe3MWjBh+Ly2iVbb3PUScIAr2bm2MDwDlsxeEnRp/p0uVu/yQKzt4/9rMDKAA=="/>
         </item>
     </channel>
 </rss>
